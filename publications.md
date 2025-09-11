@@ -6,7 +6,4 @@ title: "Publications"
 classes: wide
 ---
 
-
-# Publications
-
 Voici mes publications 📚
