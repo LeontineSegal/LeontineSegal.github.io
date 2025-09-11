@@ -1,0 +1,46 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+title: "Léontine Ségal"
+description: ""
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+url: "https://LeontineSegal.github.io"  
+baseurl: ""
+repository: "LeontineSegal/LeontineSegal.github.io"               
+
+author:
+  name: "Léontine Ségal"
+  avatar: "/assets/images/profile.jpeg"
+  bio: "Ph.D. student in statistics and signal processing for astrophysics"
+  location: "Toulon & Grenoble"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:segal@iram.fr"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/LeontineSegal"
+    - label: "orcid"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0009-0002-3993-5754"  
+    - label: "webpage"
+      icon: "fas fa-spider"
+      url: "https://LeontineSegal.github.io"
+navigation:
+  - title: "Home"
+    url: "/home/"
+  - title: "Resume"
+    url: "/resume/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Teaching"
+    url: "/teaching/"
